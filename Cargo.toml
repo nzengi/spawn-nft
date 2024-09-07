@@ -9,7 +9,7 @@ repository = "https://github.com/nzengi/spawn-nft"
 readme = "README.md"
 documentation = "https://docs.rs/spawn-nft"
 homepage = "https://github.com/nzengi/spawn-nft"
-keywords = ["ethereum", "nft", "wasm", "rust", "smart contract"]
+keywords = ["ethereum", "nft", "wasm", "rust"]
 categories = ["blockchain", "wasm", "ethereum"]
 
 [dependencies]
